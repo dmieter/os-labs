@@ -1,6 +1,0 @@
-new line
-new_file_2.txt contents
-new line
-new line
-new line
-new line
