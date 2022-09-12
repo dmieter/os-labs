@@ -7,3 +7,4 @@ GasanovFV, А-06-19, GriaznovArA, "Zdarova rebyatki", 9c337b0f35e275d0364d1f57db
 BalkarovAA, А-06-19, GasanovFV, "Salam vsem", eeef8d668c4cf961ba539e33a5e456febdc36e5a
 VlasovaYI, A-06-19, Hashira21, "Chto-nibud'", a1164652df34dc5d2589d7dc2f266b0fac6ee3c7
 OsipovYegY, A-09-19, time-for-meow, "Delicious", bc58091ac3915c9e148485bbc24aa3deab32091c
+ShliakhtaAA, A-09-19, L1nkorra,"Meow" , d18c110c8e643113a7b9b93f8e50b5c0e9b1bcc7
