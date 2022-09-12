@@ -5,3 +5,4 @@ ShvetsGV, A-06-19, Lena47993, "Greetings to all :*", 310ddc036238b28642d09115b00
 GriaznovArA, A-09-19, Grigoriy Shvets, "Consistency", 78a80d8fa269ea46569d1e428337d97098ef1f59
 GasanovFV, А-06-19, GriaznovArA, "Zdarova rebyatki", 9c337b0f35e275d0364d1f57db84cf5b52540b88
 BalkarovAA, А-06-19, GasanovFV, "Salam vsem", eeef8d668c4cf961ba539e33a5e456febdc36e5a
+VlasovaYI, A-06-19, Hashira21, "Chto-nibud'", a1164652df34dc5d2589d7dc2f266b0fac6ee3c7
