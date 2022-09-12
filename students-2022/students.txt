@@ -9,3 +9,4 @@ VlasovaYI, A-06-19, Hashira21, "Chto-nibud'", a1164652df34dc5d2589d7dc2f266b0fac
 OsipovYegY, A-09-19, time-for-meow, "Delicious", bc58091ac3915c9e148485bbc24aa3deab32091c
 ShliakhtaAA, A-09-19, L1nkorra,"Meow" , d18c110c8e643113a7b9b93f8e50b5c0e9b1bcc7
 RiabovDV, A-09-19, Shlyakhtaa, "Merge branch 'main' of https://github.com/dmieter/os-labs", 4ba79261a7230befcc3295346beb0a09cb4a5894
+IlinVV, A-06-19, NotACAt1, "رمي قنبلة يدوية", b66e6192f5f01b7d74c208f56fa2c42bece617f0
