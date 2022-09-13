@@ -16,3 +16,4 @@ IlinVV, A-06-19, Anzhelika Altueva, "Good", da9175127d77384bbe4f993a7b422bcc4373
 ShvetsGV, A-06-19, Strafer1337, "new lines in students.txt",  9da377f46b40d26f0ee8dd00269506aeb853bb9a
 GasanovFV, A-06-19, SayMyName1337, "Dodelal 4 punkt", d5f7184cc0815af91aaba2b9de45c149698b7246
 ShliakhtaAA, A-09-19, Fakhri69, "Vsem privet snova", 0a21508f75c925fcbe902a6d26760f31cfdbb097
+CherkashinaAM, A-06-19, Shlyakhtaa, "Alino4ka is here", 0f3554720e1ca993af1bc1cf98aa39833a82310b
