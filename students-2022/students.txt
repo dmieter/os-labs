@@ -18,3 +18,4 @@ GasanovFV, A-06-19, SayMyName1337, "Dodelal 4 punkt", d5f7184cc0815af91aaba2b9de
 ShliakhtaAA, A-09-19, Fakhri69, "Vsem privet snova", 0a21508f75c925fcbe902a6d26760f31cfdbb097
 CherkashinaAM, A-06-19, Shlyakhtaa, "Alino4ka is here", 0f3554720e1ca993af1bc1cf98aa39833a82310b
 PenzinaYA, A-06-19, je-tremble, "My attempt №2", db6a01c2e626ae245d4be10b1f24351c9247872b
+GuliayevaYulA, А-06-19, Lena47993, "New 4 point0", b6f2b60665f21af3e176e78db277a7c015c8afc1
