@@ -23,3 +23,4 @@ AyupovYR, A-09-19, julilluu, "Julilluu on the board", e97f166df7f998f77f6b0a95c5
 GriaznovArA, A-09-19, Adrenalin228, "Aleykum salam", e9bda479ff1302e90f21cae9935b4b0fe4a0c3ee
 RiabovDV, A-09-19, Rilemsy, "Add line in students.txt", d9798d713f5fa9ea4bbfed7cff2d23f715354f5e
 BalkarovAA, A-06-19, NotACat1, "Update Student.txt by Ryan Gosling", ab08338ef96504db1cdf0afafd443571d52cdc26
+AltuyevaAB, A-06-19, Hashira17, "Fahri lowskill dota player", 9899736b1471418dca0cbe06b0cb6679d42c24a7
