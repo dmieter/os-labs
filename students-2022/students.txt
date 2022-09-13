@@ -14,3 +14,4 @@ AltuyevaAB, A-06-19, Strafer1337, "Good", 557560512d0c7b6481a04c6ea94a1494824efa
 ---Adding again---
 IlinVV, A-06-19, Anzhelika Altueva, "Good", da9175127d77384bbe4f993a7b422bcc43732aa3s
 ShvetsGV, A-06-19, Strafer1337, "new lines in students.txt",  9da377f46b40d26f0ee8dd00269506aeb853bb9a
+GasanovFV, A-06-19, SayMyName1337, "Dodelal 4 punkt", d5f7184cc0815af91aaba2b9de45c149698b7246
