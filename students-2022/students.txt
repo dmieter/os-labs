@@ -13,3 +13,4 @@ IlinVV, A-06-19, NotACAt1, "رمي قنبلة يدوية", b66e6192f5f01b7d74c20
 AltuyevaAB, A-06-19, Strafer1337, "Good", 557560512d0c7b6481a04c6ea94a1494824efa02
 ---Adding again---
 IlinVV, A-06-19, Anzhelika Altueva, "Good", da9175127d77384bbe4f993a7b422bcc43732aa3s
+ShvetsGV, A-06-19, Strafer1337, "new lines in students.txt",  9da377f46b40d26f0ee8dd00269506aeb853bb9a
