@@ -26,3 +26,4 @@ BalkarovAA, A-06-19, NotACat1, "Update Student.txt by Ryan Gosling", ab08338ef96
 AltuyevaAB, A-06-19, Hashira17, "Fahri lowskill dota player", 9899736b1471418dca0cbe06b0cb6679d42c24a7
 OsipovYegY, A-09-19, anzhltv, "update", 6d542cfc44e74f04f6c0eec4dbfcd614ac339d40
 LikhanovaYY, A-09-19, L1nkorra, "Gaspacho. Consistency, beautiful, delicious.",  68ce32e902fef98ff437084fe5b3b2d481216945
+VlasovaYI, A-06-19, Elizaveta00000, "'AAAA'", 42b7f4d94a868a8fabe8efda893a8b08ea074226
