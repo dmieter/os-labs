@@ -27,3 +27,4 @@ AltuyevaAB, A-06-19, Hashira17, "Fahri lowskill dota player", 9899736b1471418dca
 OsipovYegY, A-09-19, anzhltv, "update", 6d542cfc44e74f04f6c0eec4dbfcd614ac339d40
 LikhanovaYY, A-09-19, L1nkorra, "Gaspacho. Consistency, beautiful, delicious.",  68ce32e902fef98ff437084fe5b3b2d481216945
 VlasovaYI, A-06-19, Elizaveta00000, "'AAAA'", 42b7f4d94a868a8fabe8efda893a8b08ea074226
+AlexeevaYD, A-06-19, time-for-meow, "Cho-to normal'noe", 947b6606a53067b58308f7d694df1e96ec2c9d13
