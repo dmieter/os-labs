@@ -1,4 +1,4 @@
-krasovitskymi, А-09-19, "hi everyone in this chat"
+﻿krasovitskymi, А-09-19, "hi everyone in this chat"
 CherkashinaAM, A-06-19, kmishaa, "hi", 6036e2f8bff181fa8839e0054c618d95647d9a6d
 PenzinaYA, A-06-19, je-tremble, "hi :)", 15f548d68e92b5a8d8a97435cca6864bf12f0a56
 ShvetsGV, A-06-19, Lena47993, "Greetings to all :*", 310ddc036238b28642d09115b00f0adec49283d4
@@ -32,4 +32,9 @@ ShvedovYI, A-09-19, [elizavetaalexseva], "Privet, milashkirrrrrrrrrr", 48d4c1d44
 ItskovichSA, A-06-19, Evgenyan1488, "Pozhiloe dopolnenie (old addition) Всё получается?", 646a0d844f40e107b3707bece1b4bc1395bff7bb
 MatveevaVA, A-06-19, itskovich, "the end 2", dfd74fd89bb40a30f20d8b1abfeff93444764061
 BurovAnA, А-06-19, Matweewa, "Good job", 1e8821fb209ec6aab89edfaed502441c0e4072c6
+<<<<<<< HEAD
 RybtsovaAV, A-09-19, andre-yy, "Nice lab", 8c0d31890b07039b3a10fbe7a25daa0160569e3e
+=======
+AfoninASer, A-09-19,andre-yy,"Nice lab", 8c0d31890b07039b3a10fbe7a25daa0160569e3e
+EremeevAD, A-06-19,AfoninASer, "Text in Students file", 73459bd2579835d9ba18f4187b463567e440a660 
+>>>>>>> 6c5c3d8b45dc6ca9826cd57f7660b205cc4b0e30
