@@ -39,3 +39,4 @@ AfoninASer, A-09-19,andre-yy,"Nice lab", 8c0d31890b07039b3a10fbe7a25daa0160569e3
 EremeevAD, A-06-19,AfoninASer, "Text in Students file", 73459bd2579835d9ba18f4187b463567e440a660 
 >>>>>>> 6c5c3d8b45dc6ca9826cd57f7660b205cc4b0e30
 MakarovDanA, A-09-19, Aarulei, "Commit message in students", afaa1d5e4294bf6960d4ea444aa60e207e409e4f
+BaranovichSK, A-09-19, makor1dze,  "pomenyal tut, potomu chto ne pomenyalos' v console", f1f57e92241bc70f7e51b36ddb49da0e1835743e
