@@ -41,3 +41,4 @@ EremeevAD, A-06-19,AfoninASer, "Text in Students file", 73459bd2579835d9ba18f418
 MakarovDanA, A-09-19, Aarulei, "Commit message in students", afaa1d5e4294bf6960d4ea444aa60e207e409e4f
 BaranovichSK, A-09-19, makor1dze,  "pomenyal tut, potomu chto ne pomenyalos' v console", f1f57e92241bc70f7e51b36ddb49da0e1835743e
 StepanishchMR, A-09-19, TheWhiteBun, "Dobavila commit!", 9a767f6d203f726d8ddb385571b83c507679411e
+KhaskovaUA, A-09-19, MariiaStepanishcheva, "new commit...", ac475e50b57498cf821623f844abaffc694799e6
