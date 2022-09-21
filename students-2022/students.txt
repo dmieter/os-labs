@@ -43,3 +43,4 @@ BaranovichSK, A-09-19, makor1dze,  "pomenyal tut, potomu chto ne pomenyalos' v c
 StepanishchMR, A-09-19, TheWhiteBun, "Dobavila commit!", 9a767f6d203f726d8ddb385571b83c507679411e
 KhaskovaUA, A-09-19, MariiaStepanishcheva, "new commit...", ac475e50b57498cf821623f844abaffc694799e6
 GudzII, A-09-19, ukhaskova, "new commit...", cebb73b9b32b911c10ed9d54da70c7450ad8d56e
+SuminYR, A-06-19, GoodStartGameDev, ah here we go again, eb5c653211b0779493a318c0854eb267e94ab38f
