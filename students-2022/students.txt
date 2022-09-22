@@ -35,3 +35,10 @@ BurovAnA, А-06-19, Matweewa, "Good job", 1e8821fb209ec6aab89edfaed502441c0e4072
 AfoninASer, A-09-19,andre-yy,"Nice lab", 8c0d31890b07039b3a10fbe7a25daa0160569e3e
 EremeevAD, A-06-19,AfoninASer, "Text in Students file", 73459bd2579835d9ba18f4187b463567e440a660 
 RybtsovaAV, A-09-19, Alexandra, "It feels like im last to do this homework -_-", c44455a4ad1df5d94c50b516c1eb30abbdeb640a
+MakarovDanA, A-09-19, Aarulei, "Commit message in students", afaa1d5e4294bf6960d4ea444aa60e207e409e4f
+BaranovichSK, A-09-19, makor1dze,  "pomenyal tut, potomu chto ne pomenyalos' v console", f1f57e92241bc70f7e51b36ddb49da0e1835743e
+StepanishchMR, A-09-19, TheWhiteBun, "Dobavila commit!", 9a767f6d203f726d8ddb385571b83c507679411e
+KhaskovaUA, A-09-19, MariiaStepanishcheva, "new commit...", ac475e50b57498cf821623f844abaffc694799e6
+GudzII, A-09-19, ukhaskova, "new commit...", cebb73b9b32b911c10ed9d54da70c7450ad8d56e
+SuminYR, A-06-19, GoodStartGameDev, ah here we go again, eb5c653211b0779493a318c0854eb267e94ab38f
+KhodeevYI, A-09-19, SuminYegor, "lab1 commited", a762d4fd07b20f3afa78514e83b9ef4866203e04
