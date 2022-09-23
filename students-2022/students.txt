@@ -43,3 +43,4 @@ GudzII, A-09-19, ukhaskova, "new commit...", cebb73b9b32b911c10ed9d54da70c7450ad
 SuminYR, A-06-19, GoodStartGameDev, ah here we go again, eb5c653211b0779493a318c0854eb267e94ab38f
 KhodeevYI, A-09-19, SuminYegor, "lab1 commited", a762d4fd07b20f3afa78514e83b9ef4866203e04
 KhaskovaUA, A-09-19, glutenfre, "oh siit here we go again", 97a5f8316769c140a0123f9a5ee1124ab58ebc6c
+StepanishchevaMR, A-09-19, ukhaskova, "ispravlenie", c10f445b0d02713fe0f5393d9dc091d4cb90d9ac
