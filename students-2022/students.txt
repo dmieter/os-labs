@@ -46,3 +46,5 @@ KhaskovaUA, A-09-19, glutenfre, "oh siit here we go again", 97a5f8316769c140a012
 StepanishchevaMR, A-09-19, ukhaskova, "ispravlenie", c10f445b0d02713fe0f5393d9dc091d4cb90d9ac
 SelukovKY, A-09-19,MariiaStepanishcheva, "izmenenie commita", 18440b1d31022f7cb285c837d7382836ae1f3e32
 YeremeevArD, A-06-19, kostyanskiy1, "changing file students.txt", 5d8959f501fc9bdf525ac46c873e7075a7307701
+AkramovBS, A-09-19, YeremeevArD, "Changed Students.txt - now its correct", 8218211eed503dd047dba491f3815f2f231acda0
+UmarovJM, A-06-19, AkramovBS, "new commit students.txt", 40eb60a9a3f15dedf6aaf5608fa90ca54221925b
