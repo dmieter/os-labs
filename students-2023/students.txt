@@ -12,3 +12,4 @@ SukhanovVS, A-09-20, englace, 5й пункт КукинВ, 493b2c639f5a2e795dc34
 ZhidkikhYS, A-06-20, vsmpei, ИСПРАВИЛ ДА, cca3797330edd8983d5de9d56c349f282251901b 
 MaximovRA, A-09-20, ylchka, Жидких 5й пункт, 0a15c4cf32bfcf3128208ea48981ba7edc0dbe52
 LabanovaMS, A-09-20, Dekold, Lab_1.5_MaximovRA, f8b91e9a4be85653ada1ce50d1a43170e93eec00
+KharitonovAnA, A-09-20, wysyvy, гнгоеног, f8b91e9a4be85653ada1ce50d1a43170e93eec00
