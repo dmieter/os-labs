@@ -14,3 +14,4 @@ MaximovRA, A-09-20, ylchka, Жидких 5й пункт, 0a15c4cf32bfcf3128208ea
 LabanovaMS, A-09-20, Dekold, Lab_1.5_MaximovRA, f8b91e9a4be85653ada1ce50d1a43170e93eec00
 KharitonovAnA, A-09-20, wysyvy, гнгоеног, cbbd0973028c854ca55399cd63c2062eb862d683
 NazhmetdinovMA, А-06-20, anteaun, G.A. i love you, b4260352e5d145a88d299a779e842f67a230441b
+TereshinDP, А-06-20, Michael_MAN, Geronimo, df7641aff26cfb1a38e95c77e4cb8ee32d4265b0
