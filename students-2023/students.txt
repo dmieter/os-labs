@@ -15,3 +15,4 @@ LabanovaMS, A-09-20, Dekold, Lab_1.5_MaximovRA, f8b91e9a4be85653ada1ce50d1a43170
 KharitonovAnA, A-09-20, wysyvy, гнгоеног, cbbd0973028c854ca55399cd63c2062eb862d683
 NazhmetdinovMA, А-06-20, anteaun, G.A. i love you, b4260352e5d145a88d299a779e842f67a230441b
 TereshinDP, А-06-20, Michael_MAN, Geronimo, df7641aff26cfb1a38e95c77e4cb8ee32d4265b0
+BoldyrevIN, A-06-20, Kaydaas, Пункт 5, e3832d353b9c6739445140d23973ac599d671bc7 
