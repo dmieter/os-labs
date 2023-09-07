@@ -1,6 +1,13 @@
 DolgyAV, A-06-20, Оставили без пиццы, но я не унываю
 ZinchenkoSK, A-06-20, PigProphet, Add files via upload, 8020e849235249f198e181812a53d2c957980bcc
+<<<<<<< Updated upstream
 BespalovML, A-06-20, S-man-S, main/ update students.txt, b5dbf1ace24e6ef4ed52581c3ca23b172e9d100a
+<<<<<<< Updated upstream
 FurtayevIV, А-09-20, AnotherJelly, Dolgii horoshii, 49c36cecd7ce8c08ad7701ba9caafee3ab2f6058
 ChernyshovDM, A-06-20, AnotherJelly, Dolgii horoshii, 49c36cecd7ce8c08ad7701ba9caafee3ab2f6058
 DereberiaTM, A-06-20, mageoffiree, Peace, 787f0387f7742401f918e2c9c9e7d9d133293e2b
+=======
+=======
+GrebeniukKS, A-09-20, приветствую
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
