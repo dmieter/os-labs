@@ -9,3 +9,4 @@ TikhonovAVad, A-09-20, grebeniuk03, fix students, 8a3f414e035d4e8016ef9226ae3f94
 GrebeniukKS, А-09-20, grebeniuk03, "fix students GrebeniukKS", d7d44a107356fb389e676d5fea9c563ebe4b4517
 KukinVA, A-09-20, kirill-ka123, fix students GrebeniukKS2, 748a6b2df8745d1dccdcea395ad28b23e69d73a7
 SukhanovVS, A-09-20, englace, 5й пункт КукинВ, 493b2c639f5a2e795dc34e5b9a1fa1305a2fff73
+ZhidkikhYS, A-06-20, vsmpei, ИСПРАВИЛ ДА, cca3797330edd8983d5de9d56c349f282251901b 
