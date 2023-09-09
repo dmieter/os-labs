@@ -1,2 +1,21 @@
 DolgyAV, A-06-20, Оставили без пиццы, но я не унываю
 ZinchenkoSK, A-06-20, PigProphet, Add files via upload, 8020e849235249f198e181812a53d2c957980bcc
+BespalovML, A-06-20, S-man-S, main/ update students.txt, b5dbf1ace24e6ef4ed52581c3ca23b172e9d100a
+FurtayevIV, А-09-20, AnotherJelly, Dolgii horoshii, 49c36cecd7ce8c08ad7701ba9caafee3ab2f6058
+ChernyshovDM, A-06-20, AnotherJelly, Dolgii horoshii, 49c36cecd7ce8c08ad7701ba9caafee3ab2f6058
+DereberiaTM, A-06-20, mageoffiree, Peace, 787f0387f7742401f918e2c9c9e7d9d133293e2b
+RybakovArV, A-06-20, grebeniuk03,fix student,8a3f414e035d4e8016ef9226ae3f94af75112e39
+TikhonovAVad, A-09-20, grebeniuk03, fix students, 8a3f414e035d4e8016ef9226ae3f94af75112e39
+GrebeniukKS, А-09-20, grebeniuk03, "fix students GrebeniukKS", d7d44a107356fb389e676d5fea9c563ebe4b4517
+KukinVA, A-09-20, kirill-ka123, fix students GrebeniukKS2, 748a6b2df8745d1dccdcea395ad28b23e69d73a7
+SukhanovVS, A-09-20, englace, 5й пункт КукинВ, 493b2c639f5a2e795dc34e5b9a1fa1305a2fff73
+ZhidkikhYS, A-06-20, vsmpei, ИСПРАВИЛ ДА, cca3797330edd8983d5de9d56c349f282251901b 
+MaximovRA, A-09-20, ylchka, Жидких 5й пункт, 0a15c4cf32bfcf3128208ea48981ba7edc0dbe52
+LabanovaMS, A-09-20, Dekold, Lab_1.5_MaximovRA, f8b91e9a4be85653ada1ce50d1a43170e93eec00
+KharitonovAnA, A-09-20, wysyvy, гнгоеног, cbbd0973028c854ca55399cd63c2062eb862d683
+NazhmetdinovMA, А-06-20, anteaun, G.A. i love you, b4260352e5d145a88d299a779e842f67a230441b
+TereshinDP, А-06-20, Michael_MAN, Geronimo, df7641aff26cfb1a38e95c77e4cb8ee32d4265b0
+BoldyrevIN, A-06-20, Kaydaas, Пункт 5, e3832d353b9c6739445140d23973ac599d671bc7
+MukhamejanovAI (Bagaev), A-09-20, igoryan75, ДУНКАН, 7946ddf1bbbea546cb8413d5eb781f768c499e50
+KrivosheevAV, A-06-20, Aleksandr Krivosheev, фикс слияния, 4455b3ba693ad54aa0ae7338dba0411f1a81701b
+YankinMI, A-06-20, Aleksandr Krivosheev, 5 punk, dfbe43c94fc15a07aba8aa5d14f11a106bb5696e
