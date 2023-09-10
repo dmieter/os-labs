@@ -21,3 +21,5 @@ KrivosheevAV, A-06-20, Aleksandr Krivosheev, фикс слияния, 4455b3ba69
 YankinMI, A-06-20, Aleksandr Krivosheev, 5 punk, dfbe43c94fc15a07aba8aa5d14f11a106bb5696e
 DazhukAS, A-09-20, MichaelYankin, Пункт 5. Янкин, ee3c0ff619fd51163cabd4eb6addd72a3328840f
 MikhailovPA, A-09-20, ENoti, update student.txt, 6aa5a045f1595e62fafe0d4a24ffd474b86501d6
+KlimkinDY, A-09-20,  Mikhailov Pavel A, Update students.txt, b1e8c15dc2cf3330a2de465a1d7504c762f5a277
+
