@@ -23,7 +23,7 @@ DazhukAS, A-09-20, MichaelYankin, Пункт 5. Янкин, ee3c0ff619fd51163cab
 MikhailovPA, A-09-20, ENoti, update student.txt, 6aa5a045f1595e62fafe0d4a24ffd474b86501d6
 KlimkinDY, A-09-20,  Mikhailov Pavel A, Update students.txt, b1e8c15dc2cf3330a2de465a1d7504c762f5a277
 DavydovAlD, A-06-20, DanilaKl, posledniy?, 4689ab4d6bbbe885c4f35183f8111a0d8317c4d6
-SanjiyevMJ, А-06-20, grebeniuk03, fix GrebeniukKS, 4b2f58f181f7283178119a053fb84faaf6aaf13b
+SanjiyevMJ, А-06-20, Alexbuzuluk, "Not, i am posledniy!" , 38e8a7b7013843addb5b4c96adbf6df96b4135b6
 GumerovaEF, А-09-20, M0I3TEM, В профиле ОСЭП не хватало 1 буквы, 1085cfe1d0288f07fb79ddae374c65fdf7297560
 
 	
