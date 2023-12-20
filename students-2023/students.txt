@@ -29,5 +29,6 @@ TretyakovAlO, А-06-20, M0I3TEM, Поправил, 81fde86dd42f0284ef161cc913a28
 ChernyshovDM, А-06-20, cROMPOS, Update students.txt, 3944f68eb9c90ef9dbee10dd21dca3ee9df0d099
 TutayevAA, A-09-20, mageoffiree, "Вбегаю в последний вагон Хоть я уже там был, но кто-то (тыкать пальцем в Фуртаева я не буду) вытолкнул меня из него", d92ffa6eefe4a0620a07fb5ad526f1880522f706 2
 BijoyA, A-09-20, alimc, Пункт 5.Тутаев, 3c590010105aaa0994f625c08ec325f7b95ddfba
+AslanovAF, A-09-20, Akib, akiblab1, 1b9e8ad8c8542b5adaccf344f8ac411dc96fe0e1
 
 
