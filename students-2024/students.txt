@@ -3,3 +3,5 @@ GribkovIS, GrIvans, А-06-21, IlsafSh, "first commit in 2024/2025", 759049982be9
 OvcharenkoAV, Sashatank2003, А-09-21, IlsafSh, "fixed first commit", bd13a1ef6c77467aaf0d2255fedef2ced39c8881
 ShverdiakovMA, MShverdiakov, A-06-21, Sashatank2003, "Ovcharenko finished lab1", 6209129312db8cf82a6e852d12b2acf0cb135853
 GorelovRA, Avanagi, A-06-21, ShverdiakovMA, "finished step 5 - modified students.txt", 4731d04bc78269e9ca4532c150dce3f4afaa7ca5
+AristarkhovDN, YagPtr, А-09-21, Avanagi, "Lab1 is ready", c5286b1ec455396581997141fbae683efb4cf056
+
