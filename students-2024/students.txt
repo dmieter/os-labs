@@ -7,3 +7,5 @@ AristarkhovDN, YagPtr, А-09-21, Avanagi, "Lab1 is ready", c5286b1ec455396581997
 KrasnovaAlA, Fahnenfluchtige, Ae-21-21, YagPtr, "Step 5 complete by Aristarkhov", e99c40390b3403f7a1c25f701dff8855acd54ebc
 MokichevAI, Alexandr61536, Ae-21-21, tarki01, "first txt file - DenisovSA.txt", 7eea0c2a3692075a49ec0c469a5e12cc993951dd
 DenisovSemA, tarki01, А-06-21, Alexandr61536, "done", 3051962cb5bdbe92a7224304d15d7c29c93631bc
+IsmailovaAD, Aleks_not007,Ae-21-21, tarki01, "omg, done",1836309b44961ca59c3d325f656b3275e5a615a2
+
