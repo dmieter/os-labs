@@ -9,3 +9,5 @@ MokichevAI, Alexandr61536, Ae-21-21, tarki01, "first txt file - DenisovSA.txt", 
 DenisovSemA, tarki01, А-06-21, Alexandr61536, "done", 3051962cb5bdbe92a7224304d15d7c29c93631bc
 IsmailovaAD, Aleks_not007,Ae-21-21, tarki01, "omg, done",1836309b44961ca59c3d325f656b3275e5a615a2
 ZavyalovGA, Grisha159-pixel,Аэ-21-21, tarki01, "tarki01", a822bafe77b46cc625a7e9d8d4a0d75083fb6674
+LevkhovDY, pearacle123, А-09-21, Grisha159-pixel, "Commit1", 2972d5149aa26b109e416d6466d599a566dd1f0a
+VasilyevPA, ThiefFrogPaladin, Аэ-21-21, pearacle123, "adding line LevkhovDY", 246deb9ac358d6ca47e2c0e0d851e75eeb63be8d
