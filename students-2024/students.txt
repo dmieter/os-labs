@@ -14,3 +14,4 @@ VasilyevPA, ThiefFrogPaladin, Аэ-21-21, pearacle123, "adding line LevkhovDY", 
 DobkinaAA, anastesis, Aэ-21-21, ThiefFrogPaladin, "lab1 update", d8d62fa0d5e7c1a0941d98169e05479cb8e85ced
 KolevatovAS, REVNBleach, А-09-21, anastesis, "Добавлена информация о студенте Dobkina", 6c2e4e9bd50fe6154f143d21d581cdc9341a6f6f
 ShchevelevaYA, EShcheveleva, A-06-21, REVNBleach, "Resolved merge conflict in students.txt", 23b5ecbcea65b0afea22adc07cec7e1e523b0aae
+IvanovAlYev, IvanovAlYev, А-09-21, EShcheveleva, "finished lab 1", 837c8d3f7cedadef1c140ddb8404cca2585ac664
