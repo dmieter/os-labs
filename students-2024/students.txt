@@ -16,3 +16,4 @@ KolevatovAS, REVNBleach, А-09-21, anastesis, "Добавлена информа
 ShchevelevaYA, EShcheveleva, A-06-21, REVNBleach, "Resolved merge conflict in students.txt", 23b5ecbcea65b0afea22adc07cec7e1e523b0aae
 IvanovAlYev, IvanovAlYev, А-09-21, EShcheveleva, "finished lab 1", 837c8d3f7cedadef1c140ddb8404cca2585ac664
 NazhmetdinovMA, Michae1MAN, А-06-21, IvanovAlYev, "Lab1 finished", c9ac6ec127106dcb9ddb7a49ab52eeefb327a913
+KasimovRR, furiuses, А-06-21, Michae1MAN, "And another one",f0df84b5c3d13a41701bbd003fe4ea8118ddb094
