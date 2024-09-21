@@ -16,11 +16,8 @@ KolevatovAS, REVNBleach, А-09-21, anastesis, "Добавлена информа
 ShchevelevaYA, EShcheveleva, A-06-21, REVNBleach, "Resolved merge conflict in students.txt", 23b5ecbcea65b0afea22adc07cec7e1e523b0aae
 IvanovAlYev, IvanovAlYev, А-09-21, EShcheveleva, "finished lab 1", 837c8d3f7cedadef1c140ddb8404cca2585ac664
 NazhmetdinovMA, Michae1MAN, А-06-21, IvanovAlYev, "Lab1 finished", c9ac6ec127106dcb9ddb7a49ab52eeefb327a913
-<<<<<<< HEAD
 YerofeevNA, NikTrik, Аэ-21-21, Michael_MAN, "And another one", f0df84b5c3d13a41701bbd003fe4ea8118ddb094
-=======
 KasimovRR, furiuses, А-06-21, Michae1MAN, "And another one",f0df84b5c3d13a41701bbd003fe4ea8118ddb094
->>>>>>> a8095f807f1598d654897b9144e2b5f388afafcc
 UchuvatkinKM, kirill0877, А-06-21, NikTrik,"This is my first lab",b589fdfa3aed89817eb25e51143a97a1e63a6e07
 PopovDmI,Popov-Dmitriy-Ivanovich,Аэ-21-21,kirill0877,"lab1 update",c6ee04ac5aa38eb91d834f9be5b19e3146e38ea5
 MokichevAI, Alexandr61536, Ae-21-21, Popov-Dmitriy-Ivanovich, "Appended students.txt", 260d3c22029296750aacd1433f91995255dc9b7f
