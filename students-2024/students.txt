@@ -24,3 +24,4 @@ MokichevAI, Alexandr61536, Ae-21-21, Popov-Dmitriy-Ivanovich, "Appended students
 FilippovDS, Volga21, Ae-21-21, Alexandr61536, Updating students.txt, ca9b54bd5a12d50dac9971afcf86d1006b9f5bce
 VukhtinID, Suhoi-superjet, А-09-21, Volga21, finished the lab, cde717c1aeca43ea18902d455bbb7b4e16c0b9bb
 MaltsevNS, NikitaMa1tsev, Ae-21-21, Aleks_not007,  Update students.txt - исправила предыдущий коммит в файле students.txt, 32a9ddd679cee3612820c4ac959e7fd82a8f6549
+MotorinKA, itmakesmesmile, A-06-21, NikTrik, исправил ошибку слияния, 12821d75b50288f3f8a8782f45d12be96fd6fc27
