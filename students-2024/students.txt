@@ -13,7 +13,7 @@ LevkhovDY, pearacle123, А-09-21, Grisha159-pixel, "Commit1", 2972d5149aa26b109e
 VasilyevPA, ThiefFrogPaladin, Аэ-21-21, pearacle123, "adding line LevkhovDY", 246deb9ac358d6ca47e2c0e0d851e75eeb63be8d
 DobkinaAA, anastesis, Aэ-21-21, ThiefFrogPaladin, "lab1 update", d8d62fa0d5e7c1a0941d98169e05479cb8e85ced
 KolevatovAS, REVNBleach, А-09-21, anastesis, "Добавлена информация о студенте Dobkina", 6c2e4e9bd50fe6154f143d21d581cdc9341a6f6f
-ShchevelevaYA, EShcheveleva, A-06-21, REVNBleach, "Resolved merge conflict in students.txt", 23b5ecbcea65b0afea22adc07cec7e1e523b0aae
+ShchevelevaYA, EShcheveleva, A-06-21, [AleksNot007], "Resolved merge conflict in students.txt", 23b5ecbcea65b0afea22adc07cec7e1e523b0aae
 IvanovAlYev, IvanovAlYev, А-09-21, EShcheveleva, "finished lab 1", 837c8d3f7cedadef1c140ddb8404cca2585ac664
 NazhmetdinovMA, Michae1MAN, А-06-21, IvanovAlYev, "Lab1 finished", c9ac6ec127106dcb9ddb7a49ab52eeefb327a913
 YerofeevNA, NikTrik, Аэ-21-21, Michael_MAN, "And another one", f0df84b5c3d13a41701bbd003fe4ea8118ddb094
