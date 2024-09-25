@@ -7,5 +7,29 @@ AristarkhovDN, YagPtr, А-09-21, Avanagi, "Lab1 is ready", c5286b1ec455396581997
 KrasnovaAlA, Fahnenfluchtige, Ae-21-21, YagPtr, "Step 5 complete by Aristarkhov", e99c40390b3403f7a1c25f701dff8855acd54ebc
 MokichevAI, Alexandr61536, Ae-21-21, tarki01, "first txt file - DenisovSA.txt", 7eea0c2a3692075a49ec0c469a5e12cc993951dd
 DenisovSemA, tarki01, А-06-21, Alexandr61536, "done", 3051962cb5bdbe92a7224304d15d7c29c93631bc
+<<<<<<< HEAD
 IsmailovaAD, Aleks_not007,Ae-21-21, tarki01, "omg, done",1836309b44961ca59c3d325f656b3275e5a615a2
 ZavyalovGA, Grisha159-pixel,Аэ-21-21, tarki01, "fix merge", a822bafe77b46cc625a7e9d8d4a0d75083fb6674
+=======
+IsmailovaAD, Aleks_not007,Ae-21-21, tarki01, "ready", 1836309b44961ca59c3d325f656b3275e5a615a2
+ZavyalovGA, Grisha159-pixel,Аэ-21-21, tarki01, "tarki01", a822bafe77b46cc625a7e9d8d4a0d75083fb6674
+LevkhovDY, pearacle123, А-09-21, Grisha159-pixel, "Commit1", 2972d5149aa26b109e416d6466d599a566dd1f0a
+VasilyevPA, ThiefFrogPaladin, Аэ-21-21, pearacle123, "adding line LevkhovDY", 246deb9ac358d6ca47e2c0e0d851e75eeb63be8d
+DobkinaAA, anastesis, Aэ-21-21, ThiefFrogPaladin, "lab1 update", d8d62fa0d5e7c1a0941d98169e05479cb8e85ced
+KolevatovAS, REVNBleach, А-09-21, anastesis, "Добавлена информация о студенте Dobkina", 6c2e4e9bd50fe6154f143d21d581cdc9341a6f6f
+ShchevelevaYA, EShcheveleva, A-06-21, [AleksNot007], "Resolved merge conflict in students.txt", 23b5ecbcea65b0afea22adc07cec7e1e523b0aae
+IvanovAlYev, IvanovAlYev, А-09-21, EShcheveleva, "finished lab 1", 837c8d3f7cedadef1c140ddb8404cca2585ac664
+NazhmetdinovMA, Michae1MAN, А-06-21, IvanovAlYev, "Lab1 finished", c9ac6ec127106dcb9ddb7a49ab52eeefb327a913
+YerofeevNA, NikTrik, Аэ-21-21, Michael_MAN, "And another one", f0df84b5c3d13a41701bbd003fe4ea8118ddb094
+KasimovRR, furiuses, А-06-21, Michae1MAN, "And another one",f0df84b5c3d13a41701bbd003fe4ea8118ddb094
+UchuvatkinKM, kirill0877, А-06-21, NikTrik,"This is my first lab",b589fdfa3aed89817eb25e51143a97a1e63a6e07
+PopovDmI,Popov-Dmitriy-Ivanovich,Аэ-21-21,kirill0877,"lab1 update",c6ee04ac5aa38eb91d834f9be5b19e3146e38ea5
+MokichevAI, Alexandr61536, Ae-21-21, Popov-Dmitriy-Ivanovich, "Appended students.txt", 260d3c22029296750aacd1433f91995255dc9b7f
+FilippovDS, Volga21, Ae-21-21, Alexandr61536, Updating students.txt, ca9b54bd5a12d50dac9971afcf86d1006b9f5bce
+VukhtinID, Suhoi-superjet, А-09-21, Volga21, finished the lab, cde717c1aeca43ea18902d455bbb7b4e16c0b9bb
+MaltsevNS, NikitaMa1tsev, Ae-21-21, Aleks_not007,  Update students.txt - исправила предыдущий коммит в файле students.txt, 32a9ddd679cee3612820c4ac959e7fd82a8f6549
+MotorinKA, itmakesmesmile, A-06-21, NikTrik, исправил ошибку слияния, 12821d75b50288f3f8a8782f45d12be96fd6fc27
+ShlykovMikA, mikshl, Аe-21-21, itmakesmesmile, "Update students.txt", 3b32e4cd87d440d593c4897024e3917e9264d992
+
+VlasovAlA, xvxmiii, Ae-21-21, mikshl, Added myself to students.txt, f2a179368f050804382f6e5fe2f4feed83ebbd7b
+>>>>>>> 16f2ae7a116ccc9fbca5c4bbacebadfd77b4bd82
