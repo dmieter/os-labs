@@ -7,10 +7,8 @@ AristarkhovDN, YagPtr, А-09-21, Avanagi, "Lab1 is ready", c5286b1ec455396581997
 KrasnovaAlA, Fahnenfluchtige, Ae-21-21, YagPtr, "Step 5 complete by Aristarkhov", e99c40390b3403f7a1c25f701dff8855acd54ebc
 MokichevAI, Alexandr61536, Ae-21-21, tarki01, "first txt file - DenisovSA.txt", 7eea0c2a3692075a49ec0c469a5e12cc993951dd
 DenisovSemA, tarki01, А-06-21, Alexandr61536, "done", 3051962cb5bdbe92a7224304d15d7c29c93631bc
-<<<<<<< HEAD
 IsmailovaAD, Aleks_not007,Ae-21-21, tarki01, "omg, done",1836309b44961ca59c3d325f656b3275e5a615a2
 ZavyalovGA, Grisha159-pixel,Аэ-21-21, tarki01, "fix merge", a822bafe77b46cc625a7e9d8d4a0d75083fb6674
-=======
 IsmailovaAD, Aleks_not007,Ae-21-21, tarki01, "ready", 1836309b44961ca59c3d325f656b3275e5a615a2
 ZavyalovGA, Grisha159-pixel,Аэ-21-21, tarki01, "tarki01", a822bafe77b46cc625a7e9d8d4a0d75083fb6674
 LevkhovDY, pearacle123, А-09-21, Grisha159-pixel, "Commit1", 2972d5149aa26b109e416d6466d599a566dd1f0a
@@ -32,4 +30,4 @@ MotorinKA, itmakesmesmile, A-06-21, NikTrik, исправил ошибку сл�
 ShlykovMikA, mikshl, Аe-21-21, itmakesmesmile, "Update students.txt", 3b32e4cd87d440d593c4897024e3917e9264d992
 
 VlasovAlA, xvxmiii, Ae-21-21, mikshl, Added myself to students.txt, f2a179368f050804382f6e5fe2f4feed83ebbd7b
->>>>>>> 16f2ae7a116ccc9fbca5c4bbacebadfd77b4bd82
+
