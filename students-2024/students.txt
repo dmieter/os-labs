@@ -28,6 +28,5 @@ VukhtinID, Suhoi-superjet, А-09-21, Volga21, finished the lab, cde717c1aeca43ea
 MaltsevNS, NikitaMa1tsev, Ae-21-21, Aleks_not007,  Update students.txt - исправила предыдущий коммит в файле students.txt, 32a9ddd679cee3612820c4ac959e7fd82a8f6549
 MotorinKA, itmakesmesmile, A-06-21, NikTrik, исправил ошибку слияния, 12821d75b50288f3f8a8782f45d12be96fd6fc27
 ShlykovMikA, mikshl, Аe-21-21, itmakesmesmile, "Update students.txt", 3b32e4cd87d440d593c4897024e3917e9264d992
-
 VlasovAlA, xvxmiii, Ae-21-21, mikshl, Added myself to students.txt, f2a179368f050804382f6e5fe2f4feed83ebbd7b
-
+LarNikA, Fructerrr, A-09-21, xvxmiii, "Исправлен конфликт слияния", a16315c1b4e564c8bc79c0048bbeb3cc5f6b4704
