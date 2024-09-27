@@ -32,3 +32,4 @@ VlasovAlA, xvxmiii, Ae-21-21, mikshl, Added myself to students.txt, f2a179368f05
 LarNikA, Fructerrr, A-09-21, xvxmiii, "Исправлен конфликт слияния", a16315c1b4e564c8bc79c0048bbeb3cc5f6b4704
 PrimakIA, AshotBabelo, А-09-21, Fructerrr, "changed students.txt", ccd2f979e2d355fe98b7f7a801fcdab6c27c1c40
 IsmagilovaXY, IsmagilovaXY, A-09-21, AshotBabelo, "Update students.txt", 24e63cc026f831af56e5e4d5131dd99d4d3a9d5c
+ZholobovDV, Spon6e, A-09-21, IsmagilovaXY, "Added and updated students.txt", 9b1da13617b2a2a52d715a4cc5775dd8093624d9
