@@ -33,3 +33,4 @@ LarNikA, Fructerrr, A-09-21, xvxmiii, "Исправлен конфликт сл�
 PrimakIA, AshotBabelo, А-09-21, Fructerrr, "changed students.txt", ccd2f979e2d355fe98b7f7a801fcdab6c27c1c40
 IsmagilovaXY, IsmagilovaXY, A-09-21, AshotBabelo, "Update students.txt", 24e63cc026f831af56e5e4d5131dd99d4d3a9d5c
 ZholobovDV, Spon6e, A-09-21, IsmagilovaXY, "Added and updated students.txt", 9b1da13617b2a2a52d715a4cc5775dd8093624d9
+BykovVlV, Scortlin, А-06-21, Spon6e, "Add mine file", 1cf6f2d3268a10d8ade57ffc15ed4dbb34bae339
