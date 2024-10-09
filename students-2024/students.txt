@@ -38,3 +38,4 @@ KukolevKV, xnzed, A-09-21, Scortlin, "Updated students.txt", 6651dace3cf2030c764
 ArkhipovDanG, betterV0-VX, А-06-21, xnzed, " Adding KukolevKV.tx and changing students.txt", 92fca7049b528b168d32c8483c06d68ccd156eba
 PonomarevMO, PonomarevMOtlt, Ae-21-21, betterV0-VX, "updated students.txt and added new file", f30466a0311c4d6b9e73f59a9a7e13dc049de365
 MatveevMA, matvma, Ae-21-21, Fructerrr, "Исправил ошибку в файле students.txt", a74cad8684a6ff3169062d683d4883fa741a7166
+SorokinArO, Jayson3xxz, A-09-21, matvma, "Message", 259f69946a44c118ed99be2dda2716fa637356aa
