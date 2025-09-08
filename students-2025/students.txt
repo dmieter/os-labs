@@ -9,3 +9,4 @@ KorablevNS, A-06-22, MeDaLL1ST, dmitryobukhoff, Add one more file, 8d1c531a5c0b4
 PereskokovDS, А-06-22, Daniil8565, KorablevNS, Updated students.txt and added new file, 16a0c7464db092a74aeb5d16301b5b4b5a63465f
 IsmailovTAid, А-06-22, bobzihno,Daniil8565, Add file,40378f789afaf46453d6b453c61c0370860532db
 BatayevAI, A-06-22, bbataev, bobzihno, Add file, f5c6acfb312e896fdb7c05c5119879cecdcd7b49
+KoshevarovAD, A-09-22, drewshich, bbataev, blockchain continues, 0a63fcaadbade2f8666f079d8b81659643e636fb
