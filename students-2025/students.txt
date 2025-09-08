@@ -10,5 +10,5 @@ PereskokovDS, А-06-22, Daniil8565, KorablevNS, Updated students.txt and added n
 IsmailovTAid, А-06-22, bobzihno,Daniil8565, Add file,40378f789afaf46453d6b453c61c0370860532db
 BatayevAI, A-06-22, bbataev, bobzihno, Add file, f5c6acfb312e896fdb7c05c5119879cecdcd7b49
 KoshevarovAD, A-09-22, drewshich, bbataev, blockchain continues, 0a63fcaadbade2f8666f079d8b81659643e636fb
-UbskyAN, A-06-22, Ubskiy, Three-words, убрала @mpei.ru, a09c626
+UbskyAN, A-06-22, Ubskiy, Three-words, убрала @mpei.ru, a09c6260a893407e6690b5475979be0a2ae642a5
 GalustianAA, А-06-22, r2rg, Ubskiy, "Выполнены пункты 3-5 в задании на ЛР1", 616119208dd1a96b37b349214290e58887411495
