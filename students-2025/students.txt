@@ -8,3 +8,4 @@ ObukhovDmA, Ae-21-22, dmitryobukhoff, Yaroslava66, Add files, ed22d3023e427ccbc1
 KorablevNS, A-06-22, MeDaLL1ST, dmitryobukhoff, Add one more file, 8d1c531a5c0b46661d47fc98a59d66afba0f054d
 PereskokovDS, А-06-22, Daniil8565, KorablevNS, Updated students.txt and added new file, 16a0c7464db092a74aeb5d16301b5b4b5a63465f
 IsmailovTAid, А-06-22, bobzihno,Daniil8565, Add file,40378f789afaf46453d6b453c61c0370860532db
+BatayevAI, A-06-22, bbataev, bobzihno, Add file, f5c6acfb312e896fdb7c05c5119879cecdcd7b49
