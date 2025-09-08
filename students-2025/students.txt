@@ -16,3 +16,4 @@ BarsukovVV, А-06-22, basilikoff, r2rg, Fix, 71d85ebd779b7dacf7203dde41363db4033
 ShamitovaAA, Ae-21-22, annashamitova, basilikoff, Kuku, c21d020902dad3a794c2bac9903cdbf212cc2b51 
 ZobkovOV, A-09-22, OlegA0922, annashamitova, Merge branch 'main' of https://github.com/dmieter/os-labs, eb3b768ecdbdd93538509623f83908a89cd466fc
 SazonovAD, A-06-22, gaspa4o, OlegA0922, Update students.txt with Zobkov Oleg, 793625db069cdf7685f25180cd5cf44410e063f3
+CherniukYS, А-09-22, Kate-chernyuk, unknown, finally complete, 02d146caac3e6346dbe2e692f5a8aa2940f83022
