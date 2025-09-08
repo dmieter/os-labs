@@ -12,3 +12,4 @@ BatayevAI, A-06-22, bbataev, bobzihno, Add file, f5c6acfb312e896fdb7c05c5119879c
 KoshevarovAD, A-09-22, drewshich, bbataev, blockchain continues, 0a63fcaadbade2f8666f079d8b81659643e636fb
 UbskyAN, A-06-22, Ubskiy, Three-words, убрала @mpei.ru, a09c626
 GalustianAA, А-06-22, r2rg, Ubskiy, "Выполнены пункты 3-5 в задании на ЛР1", 616119208dd1a96b37b349214290e58887411495
+BarsukovVV, А-06-22, basilikoff, r2rg, Fix, 71d85ebd779b7dacf7203dde41363db40335581c
