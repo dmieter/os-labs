@@ -14,3 +14,4 @@ UbskyAN, A-06-22, Ubskiy, Three-words, убрала @mpei.ru, a09c6260a893407e66
 GalustianAA, А-06-22, r2rg, Ubskiy, "Выполнены пункты 3-5 в задании на ЛР1", 616119208dd1a96b37b349214290e58887411495
 BarsukovVV, А-06-22, basilikoff, r2rg, Fix, 71d85ebd779b7dacf7203dde41363db40335581c
 ShamitovaAA, Ae-21-22, annashamitova, basilikoff, Kuku, c21d020902dad3a794c2bac9903cdbf212cc2b51 
+ZobkovOV, A-09-22, OlegA0922, annashamitova, Merge branch 'main' of https://github.com/dmieter/os-labs, eb3b768ecdbdd93538509623f83908a89cd466fc
