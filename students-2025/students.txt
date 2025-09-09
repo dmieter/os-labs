@@ -26,3 +26,5 @@ CherniukYS, А-09-22, Kate-chernyuk, unknown, finally complete, 02d146caac3e6346
 DrozdovSA, A-06-22, Drosdov, Martsevoy Yaroslav, Update students.txt, 3a971d015f21722cd53a75dde8b02343eac058d2
 RomanovDanA, Аэ-21-22, K1NK1703, Drosdov, update2, cbf8f8028a2a6cb6b16b60214a795283c983df9f
 SenkovskayaIY, А-06-22, SenkovskayaIrina, K1NK1703, Final Lab. 1 by Romanov, b30127a12cfa396844bf29920445eea882fd9aa2
+SenkovskayaIY, А-06-22, SenkovskayaIrina, K1NK1703, Final Lab. 1 by Romanov, b30127a12cfa396844bf29920445eea882fd9aa2
+
