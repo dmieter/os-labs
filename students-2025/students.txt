@@ -24,3 +24,4 @@ RiabchikovAD, A-09-22, texnik400, g0set, Merge branch 'main' of https://github.c
 RiabchikovAD, A-09-22, texnik400, g0set, Merge branch, e25d6a4f15deadff54190af2ae3aa444d08e7779
 MartsevoyYA, Аэ-21-22, yarockM, texnik400, lab finished, ce17a2bf9f811410b04156bc0f476fff640f74f7
 CherniukYS, А-09-22, Kate-chernyuk, unknown, finally complete, 02d146caac3e6346dbe2e692f5a8aa2940f83022
+DrozdovSA, A-06-22, Drosdov, Martsevoy Yaroslav, Update students.txt, 3a971d015f21722cd53a75dde8b02343eac058d2
