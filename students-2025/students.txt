@@ -19,4 +19,6 @@ SazonovAD, A-06-22, gaspa4o, OlegA0922, Update students.txt with Zobkov Oleg, 79
 ChesnokovDY, A-06-22, danielches, gaspa4o, finally complete, 02d146caac3e6346dbe2e692f5a8aa2940f83022
 ChevkinKD, Аэ-21-22, ChevkinKD, danielches, fix, 75eab4a45ff67bea935f4682f3f02980a7a3cb19
 KukushkinAM, A-06-22, xelasKS, ChevkinKD, hello,  439f91d05abfd18711f82796c86a35e8869d2d92
+LoykoSI, A-09-22, g0set, basilikoff, Исправил sazonov, 3c57080fcd3a317c237becb7df49e7370ca0add4
+RiabchikovAD, A-09-22, texnik400, g0set, Merge branch 'main' of https://github.com/dmieter/os-labs, e25d6a4f15deadff54190af2ae3aa444d08e7779
 CherniukYS, А-09-22, Kate-chernyuk, unknown, finally complete, 02d146caac3e6346dbe2e692f5a8aa2940f83022
