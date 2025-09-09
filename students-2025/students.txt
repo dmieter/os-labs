@@ -18,3 +18,4 @@ ZobkovOV, A-09-22, OlegA0922, annashamitova, Merge branch 'main' of https://gith
 SazonovAD, A-06-22, gaspa4o, OlegA0922, Update students.txt with Zobkov Oleg, 793625db069cdf7685f25180cd5cf44410e063f3
 ChesnokovDY, A-06-22, danielches, gaspa4o, finally complete, 02d146caac3e6346dbe2e692f5a8aa2940f83022
 ChevkinKD, Аэ-21-22, ChevkinKD, danielches, fix, 75eab4a45ff67bea935f4682f3f02980a7a3cb19
+KukushkinAM, A-06-22, xelasKS, ChevkinKD, hello,  439f91d05abfd18711f82796c86a35e8869d2d92
