@@ -31,3 +31,4 @@ GlobusVA, Аэ-21-22, NikaGlobus, SenkovskayaIrina, защита, 6c12651df318bd
 SavishchenkoVR, Аэ-21-22, savlagood, NikaGlobus, Алексей Колобаев, 068ad67dfb66531c541984f8290dcb09b9248ef8
 SipakovVA,АЭ-21-22,valerasipakov,savlagood,'cc os-labs: add personal txt file, update students.txt', 5a0118a3811a171bc4e2eab65ecf675c8fd60d38
 ChunayevAM, Аэ-21-22, AndreyChunaev, valerasipakov, hello world, e26850d29f5c64559fef4543f59936fe839e28fd
+ZburivskyKA,Аэ-21-22,kiryazb,AndreyChunaev,я люблю огурцы,3db1cc4291bb9bc600610bb36e94a55e653aa4c6
