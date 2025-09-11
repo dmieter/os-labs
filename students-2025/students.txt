@@ -34,3 +34,4 @@ ChunayevAM, Аэ-21-22, AndreyChunaev, valerasipakov, hello world, e26850d29f5c6
 ZburivskyKA,Аэ-21-22,kiryazb,AndreyChunaev,я люблю огурцы,3db1cc4291bb9bc600610bb36e94a55e653aa4c6
 OsipovMA, Аэ-21-22, makosiale, kiryazb, о да вставь это сообщение в students.txt, 05ec23c15ccfd9bf7f574270c2b1ff244c58bad8
 OsipovMA, Аэ-21-22, makosiale, kiryazb, о да вставь это сообщение в students.txt, 05ec23c15ccfd9bf7f574270c2b1ff244c58bad8
+OsipovMA, Аэ-21-22, makosiale, kiryazb, о да вставь это сообщение в students.txt, 05ec23c15ccfd9bf7f574270c2b1ff244c58bad8
