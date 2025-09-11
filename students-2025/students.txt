@@ -36,6 +36,3 @@ OsipovMA, Аэ-21-22, makosiale, kiryazb, о да вставь это сообщ
 SipakovVA,АЭ-21-22,valerasipakov,savlagood,'cc os-labs: add personal txt file, update students.txt', 5a0118a3811a171bc4e2eab65ecf675c8fd60d38
 SipakovVA,АЭ-21-22,valerasipakov,savlagood,'cc os-labs: add personal txt file, update students.txt', 5a0118a3811a171bc4e2eab65ecf675c8fd60d38
 TerekhovSR, Аэ-21-22, CTapywka, valerasipakov, о да вставь это сообщение в students.txt, 534cf436fc10a321945343c0407b6ff496e013dd
-MartsevoyYA, Аэ-21-22, yarockM, texnik400, Изменение, ce17a2bf9f811410b04156bc0f476fff640f74f7
-
-
