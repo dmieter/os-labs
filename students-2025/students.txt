@@ -36,3 +36,4 @@ OsipovMA, Аэ-21-22, makosiale, kiryazb, о да вставь это сообщ
 OsipovMA, Аэ-21-22, makosiale, kiryazb, о да вставь это сообщение в students.txt, 05ec23c15ccfd9bf7f574270c2b1ff244c58bad8
 OsipovMA, Аэ-21-22, makosiale, kiryazb, о да вставь это сообщение в students.txt, 05ec23c15ccfd9bf7f574270c2b1ff244c58bad8
 SipakovVA,АЭ-21-22,valerasipakov,savlagood,'cc os-labs: add personal txt file, update students.txt', 5a0118a3811a171bc4e2eab65ecf675c8fd60d38
+
