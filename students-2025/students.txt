@@ -38,3 +38,4 @@ SipakovVA,АЭ-21-22,valerasipakov,savlagood,'cc os-labs: add personal txt file,
 TerekhovSR, Аэ-21-22, CTapywka, valerasipakov, о да вставь это сообщение в students.txt, 534cf436fc10a321945343c0407b6ff496e013dd
 MartsevoyYA, Аэ-21-22, yarockM, texnik400, Изменение, ce17a2bf9f811410b04156bc0f476fff640f74f7
 VlasovAlA, Ae-21-21, xvxmiii, yarockM, Merge branch 'main' of https://github.com/dmieter/os-labs, fd2bd48f52801a370dee5b32ca3c4081505ec886
+
