@@ -35,4 +35,4 @@ ZburivskyKA,Аэ-21-22,kiryazb,AndreyChunaev,я люблю огурцы,3db1cc42
 OsipovMA, Аэ-21-22, makosiale, kiryazb, о да вставь это сообщение в students.txt, 05ec23c15ccfd9bf7f574270c2b1ff244c58bad8
 SipakovVA,АЭ-21-22,valerasipakov,savlagood,'cc os-labs: add personal txt file, update students.txt', 5a0118a3811a171bc4e2eab65ecf675c8fd60d38
 SipakovVA,АЭ-21-22,valerasipakov,savlagood,'cc os-labs: add personal txt file, update students.txt', 5a0118a3811a171bc4e2eab65ecf675c8fd60d38
-TerekhovSR, Аэ-21-22, CTapywka, valerasipakov, о да вставь это сообщение в students.txt, 534cf436fc10a321945343c0407b6ff496e013dd
+TerekhovSR, Аэ-21-22, CTapywka, Кирилл Збуривский, change students.txt, ff1b7b3afc753c77cb09c8d5877bf15d7e78d498
