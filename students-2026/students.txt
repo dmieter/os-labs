@@ -1,5 +1,4 @@
-GroshevAV, А-06-23, Artiom123454321, Всем привет и удачи в учебе!
-NaimanAM, А-09-23, shalomk1tty, antonymaks, 2cf3cec439fc1445e68fa47ac5e3cf88251
+AGroshevAV, А-06-23, Artiom123454321, Всем привет и удачи в учебе!
 DrugovskyaM, А-09-23, elizavetadrugovskaja, Artiom123454321, "Create students list", 6fb770806680c23c3586ef43e8876efd5a6fe431
 KhokhlovPV, А-06-23, maw1118, DrugovskyaM, "Исправлена группа студентки Друговской Е.М.", 29c8ea2963cc27205784c4ee703e817385a44a32
 IvashutaYA, А-09-23, Egor-Iv00, MishailSharapov, "fix conflict", 9a5cc19bbbfb48017167739b22002bd390ccf70b
@@ -16,6 +15,7 @@ BazhenovNS, A-09-23, NikitaUses, shani, "Fix", 524785ea1004191bb58340e23142c0de4
 RodnovDA,A-06-23,RodnovDA,Nirbiss,"Update students.txt", cedd083c6c518af8d764de8cad6d70b5e22dcfa9
 OsichenkoNA, A-06-23, Steed-off, "Update students.txt",  4fa4c120d8fdc0e2da8f6673ed6f7e55d215ec27
 MaximovAA, A-06-23, Steed-off, ":" 2de4cf7c445a90932175b5f2a7b7a61909d5031c
+NaimanAM, A-09-23, shalomk1tty, "Update students.txt", 41e0f9148acf835d8d0d1109d6aaaac302999b7b
 NesterovVD, A-09-23, VladimirSenju, MishailSharapov, "fix conflict", 9a5cc19bbbfb48017167739b22002bd390ccf70b
 SaponGM, А-06-23, gleb8605, VladimirSenju, "I am champ 1", 4d3b84abbe6b4f2b0f1596dc2b8f0ecf6b00bb104f476fb7113bdbfdf4dced02dc897e1976a9e4b0
 KhizhniakovVLS, A-06-23, simantorpro, VladimirSenju, "I am champ 1", 4d3b84abbe6b4f2b0f1596dc2b8f0ecf6b00bb107d1f9cf64bf830 
