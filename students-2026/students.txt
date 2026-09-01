@@ -7,7 +7,7 @@ IvashutaYA, А-09-23, Egor-Iv00, MishailSharapov, "fix conflict", 9a5cc19bbbfb48
 NikonovII, А-09-23, Nirbiss, Egor-Iv00, "Add IvashutaEA record to students.txt", 02495a1857fe7c9fcb81655fc25f29222015649a
 DavydovaYP, А-09-23, katrin133113-code, Nirbiss, "Update students.txt", cedd083c6c518af8d764de8cad6d70b5e22dcfa9
 LopatinAV, А-09-23, tylerdurden0901, elizavetadrugovskaja, Update students.txt, 9b6bb2d92863761726519404c5f486dbc79b5c7b
-TikhonovVK, А-09-23, Claign, tylerdurden0901, "new commit", 43c4748c4cad6aec2fbe79fecf982d325de25e7f
+TikhonovVK, А-09-23, Claigan, tylerdurden0901, "new commit", 43c4748c4cad6aec2fbe79fecf982d325de25e7f
 BazhenovNS, А-09-23, NikitaUses, shani, "Fix", 524785ea1004191bb58340e23142c0de4261f806
 RodnovDA, А-06-23, RodnovDA, Nirbiss, "Update students.txt", cedd083c6c518af8d764de8cad6d70b5e22dcfa9
 OsichenkoNA, А-06-23, Steed-off, "Update students.txt", 4fa4c120d8fdc0e2da8f6673ed6f7e55d215ec27
@@ -20,7 +20,6 @@ KaraliusDD , A-09-23, mars2304, MishailSharapov, "Исправлен students.tx
 KarpovaVG, А-06-23, lainterv, mars2304, " Scriabin8", a372661f810db3a6077c2e0c78b186721382648c
 SharapovMM, А-09-23, MishailSharapov, katrin133113-code, "Update students.txt", 4857d35d696830a1a2fb070837ef45b8a400b73c
 LopatinAV, A-09-23, tylerdurden0901, elizavetadrugovskaja, Update students.txt, 9b6bb2d92863761726519404c5f486dbc79b5c7b
-TikhonovVK,A-09-23,Claigan, tylerdurden0901,"new commit", 43c4748c4cad6aec2fbe79fecf982d325de25e7f
 BazhenovNS, A-09-23, NikitaUses, shani, "Fix", 524785ea1004191bb58340e23142c0de4261f806
 RodnovDA,A-06-23,RodnovDA,Nirbiss,"Update students.txt", cedd083c6c518af8d764de8cad6d70b5e22dcfa9
 OsichenkoNA, A-06-23, Steed-off, "Update students.txt",  4fa4c120d8fdc0e2da8f6673ed6f7e55d215ec27
