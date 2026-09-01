@@ -1,9 +1,10 @@
 GroshevAV, A-06-23, Artiom123454321, Всем привет и удачи в учебе!
 DrugovskyaYM, А-09-23, elizavetadrugovskaja, Artiom123454321, "Create students list", 6fb770806680c23c3586ef43e8876efd5a6fe431
 KhokhlovPV, А-06-23, mawi118, DrugovskyaYM, "Create students list", 6fb770806680c23c3586ef43e8876efd5a6fe431
-Ивашута Егор Анатольевич, A-09-23, Egor-Iv00, Petr Khokhlov, "Merge students.txt after resolving conflict", 81e63189002cad0ace93a45d4ea16da9238845a8
+IvashutaYA, A-09-23, Egor-Iv00, MishailSharapov, "fix conflict", 9a5cc19bbbfb48017167739b22002bd390ccf70b
 NikonovII, А-09-23, Nirbiss, Egor-Iv00, "Add IvashutaEA record to students.txt", 02495a1857fe7c9fcb81655fc25f29222015649a
 DavydovaYP, А-09-23, katrin133113-code, Nirbiss, "Update students.txt", cedd083c6c518af8d764de8cad6d70b5e22dcfa9
 MaximovAA, A-06-23, antonymaks, katrin133113-code, 4857d35d696830a1a2fb070837ef45b8a400b73c, "Update students.txt", "Good luck!"
+SharapovMM, А-09-23, MishailSharapov, katrin133113-code, "Update students.txt", 4857d35d696830a1a2fb070837ef45b8a400b73c
 LopatinAV, A-09-23, tylerdurden0901, elizavetadrugovskaja, Update students.txt, 9b6bb2d92863761726519404c5f486dbc79b5c7b
 TikhonovVK,A-09-23,Claigan, tylerdurden0901,"new commit", 43c4748c4cad6aec2fbe79fecf982d325de25e7f
