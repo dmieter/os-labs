@@ -9,7 +9,7 @@ TikhonovVK, А-09-23, Claigan, tylerdurden0901, "new commit", 43c4748c4cad6aec2f
 YurkovaSM, А-09-23, sonyanespiii, Claigan, "update students.txt", 450118232e12a1dfe9665e307dc82d22fea76d69
 KaraliusDD, A-09-23, mars2304, MishailSharapov, "Исправлен students.txt, одна строка SharapovMM", acc3e379a538f954d5e3455e297c227560da9537
 KarpovaVG, А-06-23, lainterv, mars2304, "Scriabin8", a372661f810db3a6077c2e0c78b186721382648c
-LopatinAV, A-09-23, tylerdurden0901, elizavetadrugovskaja, Update students.txt, 9b6bb2d92863761726519404c5f486dbc79b5c7b
+LopatinAV, A-09-23, tylerdurden0901, lainterv, updated students.txt, 63a5148a66efaf551f368293837c8ab96cd751c1
 BazhenovNS, A-09-23, NikitaUses, shani, "Fix", 524785ea1004191bb58340e23142c0de4261f806
 RodnovDA, А-06-23, RodnovDA, Nirbiss, "Update students.txt", cedd083c6c518af8d764de8cad6d70b5e22dcfa9
 OsichenkoNA, А-06-23, Steed-off, "Update students.txt", 4fa4c120d8fdc0e2da8f6673ed6f7e55d215ec27
