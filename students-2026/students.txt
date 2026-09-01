@@ -10,4 +10,9 @@ LopatinAV, А-09-23, tylerdurden0901, elizavetadrugovskaja, Update students.txt,
 TikhonovVK, А-09-23, Claign, tylerdurden0901, "new commit", 43c4748c4cad6aec2fbe79fecf982d325de25e7f
 BazhenovNS, А-09-23, NikitaUses, shani, "Fix", 524785ea1004191bb58340e23142c0de4261f806
 RodnovDA, А-06-23, RodnovDA, Nirbiss, "Update students.txt", cedd083c6c518af8d764de8cad6d70b5e22dcfa9
-SharapovMM, А-09-23, MishailSharapov, Claign, "update students.txt", 450118232e12a1dfe9665e307dc82d22fea76de9
+OsichenkoNA, А-06-23, Steed-off, "Update students.txt", 4fa4c120d8fdc0e2da8f6673ed6f7e55d215ec27
+MaximovAA, А-06-23, Steed-off, ":", 2de4cf7c445a90932175b5f2a7b7a61909d5031c
+NesterovVD, А-09-23, VladimirSenju, MishailSharapov, "fix conflict", 9a5cc19bbbfb48017167739b22002bd390ccf70b
+SaponGM, А-06-23, gleb8605, VladimirSenju, "I am champ 1", 4d3b84abbe6b4f2b0f1596dc2b8f0ecf6b00bb10
+YurkovaSM, А-09-23, sonyanespiii, Claigan, "update students.txt", 450118232e12a1dfe9665e307dc82d22fea76d69
+SharapovMM, А-09-23, MishailSharapov, sonyanespiii, "update students.txt", 450118232e12a1dfe9665e307dc82d22fea76d69
