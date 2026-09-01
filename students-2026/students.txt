@@ -16,3 +16,4 @@ NesterovVD, А-09-23, VladimirSenju, MishailSharapov, "fix conflict", 9a5cc19bbb
 SaponGM, А-06-23, gleb8605, VladimirSenju, "I am champ 1", 4d3b84abbe6b4f2b0f1596dc2b8f0ecf6b00bb10
 YurkovaSM, А-09-23, sonyanespiii, Claigan, "update students.txt", 450118232e12a1dfe9665e307dc82d22fea76d69
 SharapovMM, А-09-23, MishailSharapov, sonyanespiii, "update students.txt", 450118232e12a1dfe9665e307dc82d22fea76d69
+KaraliusDD , A-09-23, mars2304, MishailSharapov, "Исправлен students.txt, одна строка SharapovMM" , acc3e379a538f954d5e3455e297c227560da9537
