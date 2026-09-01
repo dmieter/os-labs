@@ -23,4 +23,6 @@ KhizhniakovVLS, A-06-23, simantorpro, VladimirSenju, "I am champ 1", 4d3b84abbe6
 KrasevPS, A-06-23, paul8krs, simantorpro,"done", 735fc0804e6ad0e4e7b7e97ffe09c08b9f456f04
 SharapovMM, А-09-23, MishailSharapov, paul8krs, "done", 735fc0804e6ad0e4e7b7e97ffe09c08b9f456f04
 LitvichenkoYD, A-09-23, livnkkk, MishailSharapov, "Исправлена позиция и ссылка SharapovMM", 3eae375ce8083f77e7df45607c313b689ca6f450
+YemelyanovDM,A-06-04,dmieter,livnkk, "NaN", 11111
+
 
