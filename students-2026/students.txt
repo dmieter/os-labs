@@ -1,4 +1,8 @@
 GroshevAV, A-06-23, Artiom123454321, Всем привет и удачи в учебе!
+ HEAD
+NaimanAM, A-09-23, shalomk1tty, antonymaks, 2cf3cec439fc1445e68fa44ed6a7ac5e3cf88251
+DrugovskyaYM, А-09-23, elizavetadrugovskaja, Грошев Артём Викторович, "Create students list", 6fb770806680c23c3586ef43e8876efd5a6fe431 c67a520c664b2a2ba360b208f5a278d9c0beea6d
+ 4054b20cfd09e460f6cd102d3f49e5e1fae4e0f6
 DrugovskyaYM, А-09-23, elizavetadrugovskaja, Artiom123454321, "Create students list", 6fb770806680c23c3586ef43e8876efd5a6fe431
 KhokhlovPV, А-06-23, mawi118, DrugovskyaYM, "Исправлена группа студентки Друговской Е.М.", 29c8ea2963cc27205784c4ee703e817385a44a32
 IvashutaYA, A-09-23, Egor-Iv00, MishailSharapov, "fix conflict", 9a5cc19bbbfb48017167739b22002bd390ccf70b
