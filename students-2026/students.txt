@@ -1,4 +1,7 @@
 GroshevAV, A-06-23, Artiom123454321, Всем привет и удачи в учебе!
 DrugovskyaYM, А-09-23, elizavetadrugovskaja, Грошев Артём Викторович, "Create students list", 6fb770806680c23c3586ef43e8876efd5a6fe431
-MaximovAA, A-06-23, antonymaks, elizavetadrugovskaja, 69745e01ecc7999c93d0b62e38a8a4467c4fa708, "Good luck!"
+DrugovskyaYM, А-09-23, elizavetadrugovskaja, Artiom123454321, "Create students list", 6fb770806680c23c3586ef43e8876efd5a6fe431
+Хохлов Петр Васильевич, А-06-23, mawi118, DrugovskyaYM, "Finaly", 53e73071c03fbd9698e35ed62f7aa835c3525ece
+Ивашута Егор Анатольевич, A-09-23, Egor-Iv00, Petr Khokhlov, "Merge students.txt after resolving conflict", 81e63189002cad0ace93a45d4ea16da9238845a8
+MaximovAA, A-06-23, antonymaks, Egor-Iv00, 02495a1857fe7c9fcb81655fc25f29222015649a, "Merge students.txt after resolving conflict", "Good luck!"
 
