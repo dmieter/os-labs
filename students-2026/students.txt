@@ -5,7 +5,6 @@ IvashutaYA, А-09-23, Egor-Iv00, MishailSharapov, "fix conflict", 9a5cc19bbbfb48
 NikonovII, А-09-23, Nirbiss, Egor-Iv00, "Add IvashutaEA record to students.txt", 02495a1857fe7c9fcb81655fc25f29222015649a
 DavydovaYP, А-09-23, katrin133113-code, Nirbiss, "Update students.txt", cedd083c6c518af8d764de8cad6d70b5e22dcfa9
 TikhonovVK, А-09-23, Claigan, tylerdurden0901, "new commit", 43c4748c4cad6aec2fbe79fecf982d325de25e7f
-SaponGM, А-06-23, gleb8605, VladimirSenju, "I am champ 1", 4d3b84abbe6b4f2b0f1596dc2b8f0ecf6b00bb10
 YurkovaSM, А-09-23, sonyanespiii, Claigan, "update students.txt", 450118232e12a1dfe9665e307dc82d22fea76d69
 KaraliusDD , A-09-23, mars2304, MishailSharapov, "Исправлен students.txt, одна строка SharapovMM" , acc3e379a538f954d5e3455e297c227560da9537
 KarpovaVG, А-06-23, lainterv, mars2304, " Scriabin8", a372661f810db3a6077c2e0c78b186721382648c
@@ -13,7 +12,7 @@ SharapovMM, А-09-23, MishailSharapov, katrin133113-code, "Update students.txt",
 LopatinAV, A-09-23, tylerdurden0901, elizavetadrugovskaja, Update students.txt, 9b6bb2d92863761726519404c5f486dbc79b5c7b
 BazhenovNS, A-09-23, NikitaUses, shani, "Fix", 524785ea1004191bb58340e23142c0de4261f806
 RodnovDA,A-06-23,RodnovDA,Nirbiss,"Update students.txt", cedd083c6c518af8d764de8cad6d70b5e22dcfa9
-OsichenkoNA, A-06-23, Steed-off, "Update students.txt",  4fa4c120d8fdc0e2da8f6673ed6f7e55d215ec27
+OsichenkoNA, A-06-23, Steed-off, simantorpro, "Remove",  077cd830a2ea92ae498f4dfec249477b58d7306d 
 MaximovAA, A-06-23, Steed-off, ":" 2de4cf7c445a90932175b5f2a7b7a61909d5031c
 NaimanAM, A-09-23, shalomk1tty, "Update students.txt", 41e0f9148acf835d8d0d1109d6aaaac302999b7b
 NesterovVD, A-09-23, VladimirSenju, MishailSharapov, "fix conflict", 9a5cc19bbbfb48017167739b22002bd390ccf70b
