@@ -2,4 +2,5 @@ GroshevAV, A-06-23, Artiom123454321, Всем привет и удачи в уч
 NaimanAM, A-09-23, shalomk1tty, antonymaks, 2cf3cec439fc1445e68fa44ed6a7ac5e3cf88251
 DrugovskyaYM, А-09-23, elizavetadrugovskaja, Artiom123454321, "Create students list", 6fb770806680c23c3586ef43e8876efd5a6fe431
 Хохлов Петр Васильевич, А-06-23, mawi118, DrugovskyaYM, "Finaly", 53e73071c03fbd9698e35ed62f7aa835c3525ece
-
+Ивашута Егор Анатольевич, A-09-23, Egor-Iv00, Petr Khokhlov, "Merge students.txt after resolving conflict", 81e63189002cad0ace93a45d4ea16da9238845a8
+NikonovII, А-09-23, Nirbiss, Egor-Iv00, "Add IvashutaEA record to students.txt", 02495a1857fe7c9fcb81655fc25f29222015649a
