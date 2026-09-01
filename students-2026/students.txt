@@ -17,3 +17,4 @@ TikhonovVK,A-09-23,Claigan, tylerdurden0901,"new commit", 43c4748c4cad6aec2fbe79
 BazhenovNS, A-09-23, NikitaUses, shani, "Fix", 524785ea1004191bb58340e23142c0de4261f806
 RodnovDA,A-06-23,RodnovDA,Nirbiss,"Update students.txt", cedd083c6c518af8d764de8cad6d70b5e22dcfa9
 OsichenkoNA, A-06-23, Steed-off, "Update students.txt",  4fa4c120d8fdc0e2da8f6673ed6f7e55d215ec27
+MaximovAA, A-06-23, Steed-off, ":" 2de4cf7c445a90932175b5f2a7b7a61909d5031c
