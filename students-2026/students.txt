@@ -18,15 +18,6 @@ NesterovVD, A-09-23, VladimirSenju, MishailSharapov, "fix conflict", 9a5cc19bbbf
 SaponGM, А-06-23, gleb8605, VladimirSenju, "I am champ 1", 4d3b84abbe6b4f2b0f1596dc2b8f0ecf6b00bb104f476fb7113bdbfdf4dced02dc897e1976a9e4b0
 KhizhniakovVLS, A-06-23, simantorpro, VladimirSenju, "I am champ 1", 4d3b84abbe6b4f2b0f1596dc2b8f0ecf6b00bb107d1f9cf64bf830 
 KrasevPS, A-06-23, paul8krs, simantorpro,"done", 735fc0804e6ad0e4e7b7e97ffe09c08b9f456f04
-LopatinAV, A-09-23, tylerdurden0901, lainterv, updated students.txt, 63a5148a66efaf551f368293837c8ab96cd751c1
-BazhenovNS, A-09-23, NikitaUses, shani, "Fix", 524785ea1004191bb58340e23142c0de4261f806
-RodnovDA, А-06-23, RodnovDA, Nirbiss, "Update students.txt", cedd083c6c518af8d764de8cad6d70b5e22dcfa9
-OsichenkoNA, А-06-23, Steed-off, "Update students.txt", 4fa4c120d8fdc0e2da8f6673ed6f7e55d215ec27
-MaximovAA, A-06-23, Steed-off, ":", 2de4cf7c445a90932175b5f2a7b7a61909d5031c
-NesterovVD, А-09-23, VladimirSenju, MishailSharapov, "fix conflict", 9a5cc19bbbfb48017167739b22002bd390ccf70b
-SaponGM, А-06-23, gleb8605, VladimirSenju, "I am champ 1", 4d3b84abbe6b4f2b0f1596dc2b8f0ecf6b00bb10
-KhizhniakovVLS, A-06-23, simantorpro, VladimirSenju, "I am champ 1", 4d3b84abbe6b4f2b0f1596dc2b8f0ecf6b00bb10
-KrasevPS, A-06-23, paul8krs, simantorpro, "done", 735fc0804e6ad0e4e7b7e97ffe09c08b9f456f04
 SharapovMM, А-09-23, MishailSharapov, paul8krs, "done", 735fc0804e6ad0e4e7b7e97ffe09c08b9f456f04
 LitvichenkoYD, A-09-23, livnkkk, MishailSharapov, "Исправлена позиция и ссылка SharapovMM", 3eae375ce8083f77e7df45607c313b689ca6f450
 
