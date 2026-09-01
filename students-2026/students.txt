@@ -11,3 +11,4 @@ TikhonovVK, А-09-23, Claign, tylerdurden0901, "new commit", 43c4748c4cad6aec2fb
 BazhenovNS, А-09-23, NikitaUses, shani, "Fix", 524785ea1004191bb58340e23142c0de4261f806
 RodnovDA, А-06-23, RodnovDA, Nirbiss, "Update students.txt", cedd083c6c518af8d764de8cad6d70b5e22dcfa9
 SharapovMM, А-09-23, MishailSharapov, Claign, "update students.txt", 450118232e12a1dfe9665e307dc82d22fea76de9
+KaraliusDD , A-09-23, mars2304, NikitaUses, "studentki" , af92b5cbc45fc37774e32a80ce725f6678433adc
