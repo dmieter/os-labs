@@ -28,3 +28,4 @@ MaximovAA, A-06-23, Steed-off, ":" 2de4cf7c445a90932175b5f2a7b7a61909d5031c
 NesterovVD, A-09-23, VladimirSenju, MishailSharapov, "fix conflict", 9a5cc19bbbfb48017167739b22002bd390ccf70b
 SaponGM, А-06-23, gleb8605, VladimirSenju, "I am champ 1", 4d3b84abbe6b4f2b0f1596dc2b8f0ecf6b00bb104f476fb7113bdbfdf4dced02dc897e1976a9e4b0
 KhizhniakovVLS, A-06-23, simantorpro, VladimirSenju, "I am champ 1", 4d3b84abbe6b4f2b0f1596dc2b8f0ecf6b00bb107d1f9cf64bf830 
+KrasevPS, A-06-23, paul8krs, simantorpro,"done", 735fc0804e6ad0e4e7b7e97ffe09c08b9f456f04
