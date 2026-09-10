@@ -12,7 +12,6 @@ LopatinAV, A-09-23, tylerdurden0901, elizavetadrugovskaja, Update students.txt, 
 TikhonovVK,A-09-23,Claigan, tylerdurden0901,"new commit", 43c4748c4cad6aec2fbe79fecf982d325de25e7f
 BazhenovNS, A-09-23, NikitaUses, shani, "Fix", 524785ea1004191bb58340e23142c0de4261f806
 RodnovDA,A-06-23,RodnovDA,NikitaUses,"studentki", af92b5cbc45fc37774e32a80ce725f6678433adc
-LopatinAV, A-09-23, tylerdurden0901, elizavetadrugovskaja, Update students.txt, 9b6bb2d92863761726519404c5f486dbc79b5c7b
 BazhenovNS, A-09-23, NikitaUses, shani, "Fix", 524785ea1004191bb58340e23142c0de4261f806 
 OsichenkoNA, A-06-23, Steed-off, simantorpro, "Remove",  077cd830a2ea92ae498f4dfec249477b58d7306d 
 MaximovAA, A-06-23, Steed-off, ":" 2de4cf7c445a90932175b5f2a7b7a61909d5031c
@@ -23,6 +22,5 @@ KhizhniakovVLS, A-06-23, simantorpro, VladimirSenju, "I am champ 1", 4d3b84abbe6
 KrasevPS, A-06-23, paul8krs, simantorpro,"done", 735fc0804e6ad0e4e7b7e97ffe09c08b9f456f04
 SharapovMM, А-09-23, MishailSharapov, paul8krs, "done", 735fc0804e6ad0e4e7b7e97ffe09c08b9f456f04
 LitvichenkoYD, A-09-23, livnkkk, MishailSharapov, "Исправлена позиция и ссылка SharapovMM", 3eae375ce8083f77e7df45607c313b689ca6f450
-YemelyanovDM,A-06-04,dmieter,livnkk, "NaN", 11111
 
 
