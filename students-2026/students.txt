@@ -26,7 +26,7 @@ GorbenkoKY, Аэ-21-23, chrezvi, dmieter, "qol fixes", 1da1374248010740f141c07c6
 BondarAS, A-21-23, 4t04ka, chrezvi, "Add GorbenkoKY, Аэ-21-23", d0012f7999dcd6a7171fb3b6be71a5e37b6715e9
 BurmistrovSF, Ae-21-23, soejnekdodks, 4t04ka, "bondaras do", "0f3935558af395711923f1aae7e29d13a89686ee"
 ZhigulinKY, Аэ-21-23, 4ermondos, brmstr, "бурмистров", 12691ebb3a2e217e6b7b9f146fc7cb90c502a4bb
-ItskovIS, Аэ-21-23, IRIPIPE, 4ermondos, "534230c", 534230ce5d3c7960d33d23e784d966dccb446f4a
+ItskovIS, Аэ-21-23, IRIPIPE, 4ermondos, "Add ZhigulinKY to students list", 534230ce5d3c7960d33d23e784d966dccb446f4a
 SimonovAR, Аэ-21-23, asimonov05, IRIPIPE, "hello", 052fc6d1839948f53045e489195faae4f5586501
 LiaminTA, Аэ-21-23, tikhonlym, asimonov05, "Simonov update students", be902218c0a9603839f5950d96e2121cf2c6609b
 GlebovSY, Аэ-21-23, breakcore-chan, tikhonlym, "Add LiaminTA to students list", aec20eb0b2bb4f6fb59c6bcf92c7334f9ad87a4c
