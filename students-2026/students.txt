@@ -32,5 +32,5 @@ LiaminTA, Аэ-21-23, tikhonlym, asimonov05, "Simonov update students", be902218
 GlebovSY, Аэ-21-23, breakcore-chan, tikhonlym, "Add LiaminTA to students list", aec20eb0b2bb4f6fb59c6bcf92c7334f9ad87a4c
 NesterovAS, Аэ-21-23, alenest, breakcore-chan, "aboba", 64882e746dbe77f88bfb7aa3cb60f46837568398
 FrolovaMarVl, Ae-21-23, pflpl, alenest, "tired", 09339f71816d063de85f229166144ae51bad0d55
-SudbininNA, Аэ-21-23, th4t1snik0, pflpl, "yo", 440a29c917542f58c06c9984527735a95740eaa0
+SudbininNA, Аэ-21-23, th4t1snik0, pflpl, "add info to txt", 440a29c917542f58c06c9984527735a95740eaa0
 PershakovSA, Аэ-21-23, gangholo558540, th4t1snik0, "fix", 68466741a7fc84f02800084f45ce67aba5f9a383
