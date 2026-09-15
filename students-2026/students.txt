@@ -36,3 +36,5 @@ SudbininNA, Аэ-21-23, th4t1snik0, pflpl, "add info to txt", 440a29c917542f58c0
 PershakovSA, Аэ-21-23, gangholo558540, th4t1snik0, "fix", 68466741a7fc84f02800084f45ce67aba5f9a383
 LevshchanovB, А-09-23, th4t1snik0, "fix", 68466741a7fc84f02800084f45ce67aba5f9a383
 UsovPA, А-06-23, MyasnoyPashtet, qwsdcvghu123, "Update students.txt", d086600e66cc4f8e4231e5fce15d11074fb8387a
+TagirovSSh, А-06-23, Tagirov017, MyasnoyPashtet, "Add UsovPA to students list", 56638bae28db008e66eec3298b32883cf4b50065
+
