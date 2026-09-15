@@ -38,3 +38,4 @@ UsovPA, А-06-23, MyasnoyPashtet, qwsdcvghu123, "Update students.txt", d086600e6
 TagirovSSh, А-06-23, Tagirov017, MyasnoyPashtet, "Add UsovPA to students list", 56638bae28db008e66eec3298b32883cf4b50065
 KalinkinDS, A-06-23, dmitrykalinkin, antonymaks, "MaximovAA fix students.txt", b740872e843bf325f9cb79747fc0a5b382a22d2d
 MaximovAA, A-06-23, antonymaks, dmitrykalinkin, "add', 8e5d5083a339e77fb9472575f05186f04346fd29
+KalinkinYS, А-06-23, KalinkinYS, mawi118, "Update students.txt", 5d01f71454d79b405d856b37b658218002fffa62
