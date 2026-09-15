@@ -14,7 +14,6 @@ BazhenovNS, A-09-23, NikitaUses, shani, "Fix", 524785ea1004191bb58340e23142c0de4
 RodnovDA,A-06-23,RodnovDA,NikitaUses,"studentki", af92b5cbc45fc37774e32a80ce725f6678433adc
 BazhenovNS, A-09-23, NikitaUses, shani, "Fix", 524785ea1004191bb58340e23142c0de4261f806 
 OsichenkoNA, A-06-23, Steed-off, simantorpro, "Remove",  077cd830a2ea92ae498f4dfec249477b58d7306d 
-MaximovAA, A-06-23, antonymaks, Steed-off, ":", 2de4cf7c445a90932175b5f2a7b7a61909d5031c
 NaimanAM, A-09-23, shalomk1tty,antonymaks, "Update students.txt", 41e0f9148acf835d8d0d1109d6aaaac302999b7b
 NesterovVD, A-09-23, VladimirSenju, MishailSharapov, "fix conflict", 9a5cc19bbbfb48017167739b22002bd390ccf70b
 SaponGM, А-06-23, gleb8605, VladimirSenju, "I am champ 1", 4d3b84abbe6b4f2b0f1596dc2b8f0ecf6b00bb104f476fb7113bdbfdf4dced02dc897e1976a9e4b0
@@ -38,3 +37,4 @@ LevshchanovB, А-09-23, th4t1snik0, "fix", 68466741a7fc84f02800084f45ce67aba5f9a
 UsovPA, А-06-23, MyasnoyPashtet, qwsdcvghu123, "Update students.txt", d086600e66cc4f8e4231e5fce15d11074fb8387a
 TagirovSSh, А-06-23, Tagirov017, MyasnoyPashtet, "Add UsovPA to students list", 56638bae28db008e66eec3298b32883cf4b50065
 KalinkinDS, A-06-23, dmitrykalinkin, antonymaks, "MaximovAA fix students.txt", b740872e843bf325f9cb79747fc0a5b382a22d2d
+MaximovAA, A-06-23, antonymaks, dmitrykalinkin, "add', 8e5d5083a339e77fb9472575f05186f04346fd29
